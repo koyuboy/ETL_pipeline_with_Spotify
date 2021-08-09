@@ -15,3 +15,13 @@ We can extract data with FTP(File Transfer Protocol) or API(Application Programm
 ### After extract our data looks like that
 ![image](https://user-images.githubusercontent.com/35155252/128752047-c8773e52-b8c5-4ad1-902c-a936c98b634d.png)
 
+# Step 2 - Transform(Validation)
+
+Some times data vendors might send empty file, duplicated data, null columns or row  etc. We need to clean up this mess before uploading it to the database.
+![image](https://user-images.githubusercontent.com/35155252/128757553-d349a2d7-d513-4b5c-8de2-e1e9abb2a69d.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/35155252/128757167-339518b5-0b02-4059-a39f-4e17da3a73a9.png)
+
