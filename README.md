@@ -13,6 +13,8 @@ We can extract data with FTP(File Transfer Protocol) or API(Application Programm
 ![image](https://user-images.githubusercontent.com/35155252/128636477-eedac6db-26be-43a9-99e0-eb0eb42a7b0f.png)
 
 ### After extract our data looks like that
+![image](https://user-images.githubusercontent.com/35155252/128752047-c8773e52-b8c5-4ad1-902c-a936c98b634d.png)
+
 
                                     song_name      artist_name                 played_at   timestamp
 
