@@ -12,3 +12,12 @@ We can extract data with FTP(File Transfer Protocol) or API(Application Programm
 - Then click the get token button, select below option and clic request token.
 ![image](https://user-images.githubusercontent.com/35155252/128636477-eedac6db-26be-43a9-99e0-eb0eb42a7b0f.png)
 
+### After extract our data looks like that
+
+                                    song_name      artist_name                 played_at   timestamp
+
+0                              To Let Myself Go       The Avener  2021-08-09T10:17:00.394Z  2021-08-09
+1                                  Self Control   Laura Branigan  2021-08-09T09:36:13.274Z  2021-08-09
+2                                        Zombie  The Cranberries  2021-08-09T09:32:06.364Z  2021-08-09
+3                                         Crush           Lane 8  2021-08-09T09:26:59.455Z  2021-08-09
+4                                  Toosie Slide            Drake  2021-08-09T09:19:41.210Z  2021-08-09
