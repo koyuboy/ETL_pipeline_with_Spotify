@@ -17,12 +17,20 @@ We can extract data with FTP(File Transfer Protocol) or API(Application Programm
 
 # Step 2 - Transform(Validation)
 
-Some times data vendors might send empty file, duplicated data, null columns or row  etc. We need to clean up this mess(dirty data) before uploading it to the database. Because  working with dirty data gives us wrong information. "Garbage in, garbage out."
+Some times data vendors might send empty file, duplicated data, null columns or row  etc. We need to clean up this mess(dirty data) before uploading it to the database. Because working with dirty data gives us false information. "Garbage in, garbage out."
 
 ![image](https://user-images.githubusercontent.com/35155252/128757553-d349a2d7-d513-4b5c-8de2-e1e9abb2a69d.png)
 
+In this code only checked basic things with "check_if_valid_data()" function. You can look at below images to see the most common transform types.
+![image](https://user-images.githubusercontent.com/35155252/128758721-6a5b4f53-52a5-4fd8-82a9-560b9ef2510c.png)
+![image](https://user-images.githubusercontent.com/35155252/128758751-f13a898a-9b2f-4cb1-9563-417d71b6ab8f.png)
 
-
+After calling the "check_if_valid_data()" function you will see this output if everything is alright.
 
 ![image](https://user-images.githubusercontent.com/35155252/128757167-339518b5-0b02-4059-a39f-4e17da3a73a9.png)
+
+
+Resources:
+- https://www.stitchdata.com/etldatabase/etl-transform/
+- https://github.com/karolina-sowinska/free-data-engineering-course-for-beginners/blob/master/main.py
 
