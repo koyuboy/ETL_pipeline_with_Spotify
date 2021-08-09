@@ -17,7 +17,8 @@ We can extract data with FTP(File Transfer Protocol) or API(Application Programm
 
 # Step 2 - Transform(Validation)
 
-Some times data vendors might send empty file, duplicated data, null columns or row  etc. We need to clean up this mess before uploading it to the database.
+Some times data vendors might send empty file, duplicated data, null columns or row  etc. We need to clean up this mess(dirty data) before uploading it to the database. Because  working with dirty data gives us wrong information. "Garbage in, garbage out."
+
 ![image](https://user-images.githubusercontent.com/35155252/128757553-d349a2d7-d513-4b5c-8de2-e1e9abb2a69d.png)
 
 
