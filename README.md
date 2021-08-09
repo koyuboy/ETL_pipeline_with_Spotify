@@ -32,6 +32,11 @@ After calling the "check_if_valid_data()" function you will see this output if e
 
 ![image](https://user-images.githubusercontent.com/35155252/128757167-339518b5-0b02-4059-a39f-4e17da3a73a9.png)
 
+# Step 3 - Load
+
+
+
+
 
 Resources:
 - https://www.stitchdata.com/etldatabase/etl-transform/
