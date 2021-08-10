@@ -34,7 +34,15 @@ After calling the "check_if_valid_data()" function you will see this output if e
 
 # Step 3 - Load
 
+In this step we will load our data to database(SQLite). I used DBeaver to execute sql query and check my database. After run load operation an sqlite file created in script directory. Open DBeaver and connect to DB via this file.
 
+![image](https://user-images.githubusercontent.com/35155252/128923513-8a206056-2d70-4c5d-ae7d-0ff3c8055b69.png)
+
+Select path(sqlite file) and select finish that's all.
+
+After load operation you can see your data in database.
+
+![image](https://user-images.githubusercontent.com/35155252/128924033-34d299db-48a5-4deb-b9f0-c2f3c396a414.png)
 
 
 
